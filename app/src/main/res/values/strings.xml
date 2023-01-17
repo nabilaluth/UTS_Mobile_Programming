@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">utsMobPro1904436</string>
+    <string name="date">Date</string>
+    <string name="nama_coffee">Nama Coffee</string>
+    <string name="kategori">Kategori</string>
+    <string-array name="kategori">
+        <item>Kopi Arabika</item>
+        <item>Kopi Robusta</item>
+        <item>Kopi Liberika</item>
+        <item>Kopi Ekselsa</item>
+    </string-array>
+    <string name="deskripsi">Deskripsi</string>
+    <string name="makanan_pelengkap">Makanan Pelengkap</string>
+    <string name="cake">Cake</string>
+    <string name="brownies">Brownies</string>
+    <string name="dalgona_candy">Dalgona Candy</string>
+    <string name="simpan">Simpan</string>
+    <string name="delete">Delete</string>
+</resources>
